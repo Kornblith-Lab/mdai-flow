@@ -435,7 +435,8 @@ def export_mdai_json_to_csv_html(config_path, output_dir=None):
 
 if __name__ == "__main__":
 
-    config_path = "mdai_config.json"
+    config_path = "config.json"
     output_dir = "mdai_output"
 
     export_mdai_json_to_csv_html(config_path, output_dir)
+
