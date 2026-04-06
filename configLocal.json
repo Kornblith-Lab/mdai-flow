@@ -1,9 +1,9 @@
 {
-    "mdai_domain": "public.md.ai",
-    "mdai_token": "XXXXXX",
+    "mdai_domain": "ucsf.md.ai",
+    "mdai_token": "ef0b08f50e2afb19e82c266302dddd9f",
     "mdai_project_id": "3VB5O2No",
-    "mdai_dataset_id": "D_JrY9xV",
-    "Project_dir": "./VideoDir",
+    "mdai_dataset_id": [ "D_zN1gEQ" ],
+    "Project_dir": "ProjectDir",
     "annotation_vars": [
         "id",
         "createdAt",
@@ -66,8 +66,19 @@
         "dicomTags.ProcedureCodeSequence"
     ],
     "user_map": {
-        "U_OjzRqO": "Shree",
-        "U_6lLn46": "Naina",
-        "U_NxeXN3": "Newton"
+        "U_PL8EzR": "John Mongan",
+        "U_b35bex": "Aaron Kornblith",
+        "U_NxeXN3": "Newton Addo",
+        "U_wzqlAL": "Kush Narang",
+        "U_DL2dN3": "Shabir Din",
+        "U_g3W91L": "Jashdeep Dhillon",
+        "U_NxeXw3": "Margaret Lin-Martore",
+        "U_N37gN3": "Mojda Moradi",
+        "U_WzDqB3": "Anvitha Marlapati",
+        "U_YxmAex": "Madison DeVries",
+        "U_5xajjL": "Olivia Deantoni",
+        "U_2LPgpx": "ShreeSabbineni",
+        "U_wxryD3": "Benjamin Magaña",
+        "U_kxw9nz": "Leisha Devisetti"
     }
 }
