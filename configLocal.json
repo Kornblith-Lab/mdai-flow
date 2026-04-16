@@ -1,9 +1,9 @@
 {
-    "mdai_domain": "public.md.ai",
-    "mdai_token": "XXXXXX",
+    "mdai_domain": "ucsf.md.ai",
+    "mdai_token": "XXXXXXX",
     "mdai_project_id": "3VB5O2No",
-    "mdai_dataset_id": "D_JrY9xV",
-    "Project_dir": "./VideoDir",
+    "mdai_dataset_id": [ "D_zN1gEQ" ],
+    "Project_dir": "ProjectDir",
     "annotation_vars": [
         "id",
         "createdAt",
@@ -66,8 +66,6 @@
         "dicomTags.ProcedureCodeSequence"
     ],
     "user_map": {
-        "U_OjzRqO": "Shree",
-        "U_6lLn46": "Naina",
-        "U_NxeXN3": "Newton"
+       "USER_ID"="NAME_OF_USER"
     }
 }
